@@ -12,10 +12,33 @@ The objective of Project 3 was to add interactivity to a webpage using JavaScrip
 
 ![Homepage](Screenshots/homepage.png)
 
-### Dark Mode Toggle
+## Dark Mode Preview
 
-![Dark Mode](Screenshots/dark-mode.png)
+<table>
+  <tr>
+    <td><img src="Screenshots/dark1.png" width="300"></td>
+    <td><img src="Screenshots/dark2.png" width="300"></td>
+    <td><img src="Screenshots/dark3.png" width="300"></td>
+  </tr>
 
+  <tr>
+    <td align="center">Hero Section</td>
+    <td align="center">Cake Cards</td>
+    <td align="center">Reviews Section</td>
+  </tr>
+
+  <tr>
+    <td><img src="Screenshots/dark4.png" width="300"></td>
+    <td><img src="Screenshots/dark5.png" width="300"></td>
+    <td><img src="Screenshots/dark6.png" width="300"></td>
+  </tr>
+
+  <tr>
+    <td align="center">Extras Section</td>
+    <td align="center">Offers Popup</td>
+    <td align="center">Footer</td>
+  </tr>
+</table>
 ### Add To Cart Functionality
 
 ![Cart](Screenshots/add-to-cart.png)
