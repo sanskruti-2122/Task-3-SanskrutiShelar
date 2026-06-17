@@ -39,6 +39,7 @@ The objective of Project 3 was to add interactivity to a webpage using JavaScrip
     <td align="center">Footer</td>
   </tr>
 </table>
+
 ### Add To Cart Functionality
 
 ![Cart](Screenshots/add-to-cart.png)
